@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jpisnice
 - 👀 I’m interested in Innovative concepts
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me 
 - -you could reach out to me on Instagram @jprehav
