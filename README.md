@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Jpisnice
-- 👀 I’m interested in Innovative concepts
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me 
-- -you could reach out to me on Instagram @jprehav
-- -Or email me on janardhanpolle.7@gmail.com
+## Hello Everyone ##
+Hope you find something interesting and useful in here.
+
 
 <!---
 Jpisnice/Jpisnice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
