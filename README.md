@@ -1,8 +1,12 @@
-## Hello Everyone ##
-Hope you find something interesting and useful in here.
-feel free to contribute to my repos,im eagre for those contributions
+# Hi, I'm Jpisnice 👋
 
-<!---
-Jpisnice/Jpisnice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate software developer with a strong focus on TypeScript, Svelte, and modern web technologies. My repositories showcase various projects ranging from starter kits to advanced applications. I enjoy exploring new frameworks and tools, and I'm always looking to improve my skills and contribute to the open-source community.
+
+## Contact Me
+
+- **Email:** [jpisnice@example.com](mailto:janardhanpolle.26@gmail.com)
+- **LinkedIn:** [linkedin.com/in/jpisnice](https://www.linkedin.com/in/janardhan-polle-4b0b4a158/)
+
+Feel free to reach out if you have any questions, suggestions, or just want to connect!
+
+Happy coding! 🚀
