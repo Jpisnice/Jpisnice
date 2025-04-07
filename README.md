@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 ## Contact Me
 
-- **Email:** [jpisnice@example.com](mailto:janardhanpolle.26@gmail.com)
-- **LinkedIn:** [linkedin.com/in/jpisnice](https://www.linkedin.com/in/janardhan-polle-4b0b4a158/)
+- **Email:** [janardhanpolle.26@gmail.com](mailto:janardhanpolle.26@gmail.com)
+- **LinkedIn:** [linkedin.com/in/Janardhan Pole](https://www.linkedin.com/in/janardhan-polle-4b0b4a158/)
 
 Feel free to reach out if you have any questions, suggestions, or just want to connect!
 
